@@ -31,6 +31,7 @@ Refactoring helps to improve quality of the code therefore has some great advant
 * It helps program to run faster and smoother
 * It helps find issues such as duplicate code
 * It can help fix bugs
+
 That being said refactoring also has some drawbacks that should be considered: 
 * It can be expensive 
 * It can be time consuming
